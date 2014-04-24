@@ -1,0 +1,75 @@
+@import url("http://fonts.googleapis.com/css?family=Condiment");
+
+a:hover{
+	color:green;
+	font-weight:bold;
+}
+
+p{
+margin:0px;
+}
+
+.first{
+          background-color: #666666;
+		  font-family:'Condiment';
+}
+
+p:nth-child(2){
+          background-color: #CC0000;
+}
+
+p:nth-child(3){
+          background-color: #FF0000;
+}
+
+p:nth-child(4){
+          background-color: #FF3300;
+}
+
+p:nth-child(5){
+          background-color: #FF6600;
+}
+
+p:nth-child(6){
+          background-color: #FF9933;
+}
+
+p:nth-child(7){
+          background-color: #FFCC66;
+}
+
+p:nth-child(8){
+          background-color: #FFFF99;
+}
+
+p:nth-child(9){
+          background-color: #FFFFCC;
+}
+
+p:nth-child(10){
+          background-color: #66CCFF;
+}
+
+p:nth-child(11){
+          background-color: #3399FF;
+}
+
+p:nth-child(12){
+          background-color: #6699FF;
+}
+p:nth-child(13){
+          background-color: #0066FF;
+}
+p:nth-child(14){
+          background-color: #0066CC;
+}
+p:nth-child(15){
+          background-color: #0000FF;
+}
+p:nth-child(16){
+          background-color: #000099;
+}
+
+span{
+	font-size:30px;
+}
